@@ -1,4 +1,4 @@
-h1 {
+h1{
     color:rgba(255, 255, 255, 0.89)
 }
 h1 {
@@ -7,6 +7,7 @@ h1 {
     font-style: oblique;
 }
 h3 { color: #0000ff
+}
 p {
     text-align: center;
     font-size: medium;
@@ -34,7 +35,6 @@ h2 {
     color:rgb(250, 234, 6)
 }
 nav a {
-    
    color:rgb(250, 234, 6)
 
 }

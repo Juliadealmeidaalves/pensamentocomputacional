@@ -1,12 +1,12 @@
 h1{
-    color:rgba(255, 255, 255, 0.89)
+    color:rgba(255, 255, 255, 0.89);
 }
 h1 {
     text-align: center;
     background-color: rgba(253, 252, 252, 0);
     font-style: oblique;
 }
-h3 { color: #0000ff
+h3 { color: #0000ff;
 }
 p {
     text-align: center;
@@ -21,20 +21,20 @@ body {
     
 }
 .paragrafo1 {
-    color:rgb(255,255,255)
+    color:rgb(255,255,255);
     
 }
 .paragrafo2 {
-    background-color: rgba(128, 29, 29, 0)
+    background-color: rgba(128, 29, 29, 0);
 }
 .imagem1 {
     image-orientation: center; 
     width: 1349px;
 }
 h2 {
-    color:rgb(250, 234, 6)
+    color:rgb(250, 234, 6);
 }
 nav a {
-   color:rgb(250, 234, 6)
+   color:rgb(250, 234, 6);
 
 }

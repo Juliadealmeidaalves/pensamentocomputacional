@@ -1,5 +1,5 @@
 h1{
-    color:rgb(39, 189, 8);
+    color:rgb(22, 117, 4);
 }
 h1 {
     text-align: center;
@@ -51,5 +51,8 @@ ul {
 
 }
 h4 {
-    
+    color:rgb(22, 117, 4);
+}
+.paragrafo4 {
+    color:rgb(255,255,255);
 }
